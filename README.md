@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning computer science! 👯
+I’m currently studying computer science! 👯
 <!--
 **Cora1177/Cora1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
